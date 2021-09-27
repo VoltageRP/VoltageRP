@@ -744,3 +744,4 @@
 [38;5;73m[ citizen-server-impl] network thread hitch warning: timer interval of 248 milliseconds
 [38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 241 milliseconds
 [38;5;73m[ citizen-server-impl] server thread hitch warning: timer interval of 293 milliseconds
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 105 milliseconds
