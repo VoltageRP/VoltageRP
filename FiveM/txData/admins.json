@@ -1,0 +1,42 @@
+[
+  {
+    "name": "voltage_rp",
+    "master": true,
+    "password_hash": "$2a$11$DrfWv/c6.bLTszKlDlT65OmqyAoUxHVX7wXrfYtRVVzniRTURD9i2",
+    "providers": {
+      "citizenfx": {
+        "id": "voltage_rp",
+        "identifier": "fivem:4489653",
+        "data": {
+          "sub": "635163587709876f629bf3dfa17ce3eb",
+          "nameid": "https://forum.cfx.re/internal/user/4489653",
+          "name": "voltage_rp",
+          "picture": "https://forum.cfx.re/user_avatar/forum.cfx.re/voltage_rp/256/696408_2.png",
+          "profile": "https://forum.cfx.re/u/voltage_rp"
+        }
+      }
+    },
+    "permissions": []
+  },
+  {
+    "name": "GamingPanthers",
+    "master": false,
+    "password_hash": "$2a$11$b6BKO5X0OAkS4NtG77xN1eH0Wo5.tSZ2uT4rH.2PuYplerKr0RH5q",
+    "password_temporary": true,
+    "providers": {
+      "citizenfx": {
+        "id": "Gaming_Panthers",
+        "identifier": "fivem:219368",
+        "data": {}
+      },
+      "discord": {
+        "id": "252354071380361218",
+        "identifier": "discord:252354071380361218",
+        "data": {}
+      }
+    },
+    "permissions": [
+      "all_permissions"
+    ]
+  }
+]

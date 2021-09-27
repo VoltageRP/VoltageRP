@@ -1,0 +1,66 @@
+
+================================================================
+======== txAdmin starting - 26/09/2021, 5:44:37 am
+================================================================
+[05:51:35][127.0.0.1][voltage_rp] Changing global settings via setup stepper and started Deployer.
+[05:51:45][127.0.0.1][voltage_rp] Setting recipe.
+[06:02:44][127.0.0.1][voltage_rp] Running recipe.
+[06:08:38][127.0.0.1][voltage_rp] Configured server.cfg from deployer.
+[06:08:38][127.0.0.1][voltage_rp] Completed and committed server deploy.
+
+================================================================
+======== txAdmin starting - 26/09/2021, 11:24:51 pm
+================================================================
+[23:26:06][127.0.0.1][voltage_rp] Changing fxRunner settings.
+[23:26:11][127.0.0.1][voltage_rp] Changing fxRunner settings.
+[23:26:14][127.0.0.1][voltage_rp] Changing fxRunner settings.
+[23:26:20][127.0.0.1][voltage_rp] START SERVER
+[23:28:32][127.0.0.1][voltage_rp] Adding admin 'GamingPanthers'.
+[23:28:49][127.0.0.1][voltage_rp] RESTART SERVER
+[23:35:27][127.0.0.1][voltage_rp] RESTART SERVER
+[23:48:36][127.0.0.1][voltage_rp] Changing Player Controller settings.
+[23:58:36][127.0.0.1][voltage_rp] /setpermissions 1 admin
+[00:01:24][127.0.0.1][voltage_rp] ensure "qb-apartments"
+[00:07:03][127.0.0.1][voltage_rp] refresh
+[00:07:16][127.0.0.1][voltage_rp] ensure "gabz_mrpd"
+[00:07:17][127.0.0.1][voltage_rp] ensure "PLOKS_CARS"
+[00:08:18][MONITOR] Restarting server (server hang detected).
+[00:08:19][127.0.0.1][voltage_rp] Editing server CFG File.
+[00:08:24][127.0.0.1][voltage_rp] RESTART SERVER
+[00:08:45][127.0.0.1][voltage_rp] STOP SERVER
+
+================================================================
+======== txAdmin starting - 27/09/2021, 12:13:21 am
+================================================================
+[00:15:52][127.0.0.1][voltage_rp] Editing server CFG File.
+[00:15:58][127.0.0.1][voltage_rp] ensure "PLOKS_CARS"
+[00:16:59][MONITOR] Restarting server (server hang detected).
+[00:21:16][127.0.0.1][voltage_rp] Whitelisted RHPGM
+[00:41:01][127.0.0.1][voltage_rp] Editing server CFG File.
+[00:41:07][127.0.0.1][voltage_rp] refresh
+[00:41:12][127.0.0.1][voltage_rp] refresh
+[00:41:20][127.0.0.1][voltage_rp] start mc-vehicleconfig
+[00:54:30][127.0.0.1][voltage_rp] refresh
+[00:54:41][127.0.0.1][voltage_rp] ensure "crosshair"
+[00:54:57][127.0.0.1][voltage_rp] stop "qb-hud"
+[00:55:03][127.0.0.1][voltage_rp] ensure "cosmo_hud"
+[00:59:37][127.0.0.1][voltage_rp] refresh
+[00:59:58][127.0.0.1][voltage_rp] RESTART SERVER
+[01:06:43][127.0.0.1][voltage_rp] RESTART SERVER
+
+================================================================
+======== txAdmin starting - 27/09/2021, 1:08:49 am
+================================================================
+[01:44:53][127.0.0.1][voltage_rp] ensure "cosmo_hud"
+[01:44:59][127.0.0.1][voltage_rp] refresh
+[01:45:04][127.0.0.1][voltage_rp] ensure "lamhurdtm"
+[01:45:57][127.0.0.1][voltage_rp] Whitelisted R2HTU
+[02:04:44][127.0.0.1][voltage_rp] RESTART SERVER
+
+================================================================
+======== txAdmin starting - 27/09/2021, 2:24:32 am
+================================================================
+
+================================================================
+======== txAdmin starting - 27/09/2021, 2:24:32 am
+================================================================
