@@ -1,16 +1,16 @@
 QB = {}
 
 QB.Spawns = {
-    ["legion"] = {
+    ["alta"] = {
         coords = vector4(195.17, -933.77, 29.7, 144.5),
-        location = "legion",
-        label = "Legion Square",
+        location = "alta",
+        label = "Alta Apartments",
     },
 
-    ["policedp"] = {
-        coords = vector4(428.23, -984.28, 29.76, 3.5),
-        location = "policedp",
-        label = "Police Department",
+    ["lsbusstation"] = {
+        coords = vector4(452.67, -658.48, 28.23),
+        location = "lsbusstation",
+        label = "LS Bus Station",
     },
 
     ["paleto"] = {
