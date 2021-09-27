@@ -1,3 +1,3 @@
 @echo off
-"C:/Users/Administrator/Desktop/FiveM//FXServer.exe" +set serverProfile "default"
+"C:/Users/Administrator/Desktop/VoltageRP/FiveM/FiveM/FXServer.exe" +set serverProfile "default"
 pause
